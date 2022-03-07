@@ -10,3 +10,4 @@ class MyMath:
         sugar daddy??
         napomnq mi na nqkoi ;) poznai koi (ama ne go pishi, samo si go pomisli)
         sus
+        ew
