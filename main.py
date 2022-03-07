@@ -7,3 +7,4 @@ class MyMath:
         ebi_si_maikata kelesh
         shte eba bashta ti
         shte mu kaja sladkishche, podgotvi se da ne ti plashta  spotify-a <3
+        sugar daddy??
