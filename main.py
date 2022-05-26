@@ -1,7 +1,3 @@
-<<<<<<< Updated upstream
-zdr
-kak si
-=======
 from http.server import BaseHTTPRequestHandler, HTTPServer
 
 hostName = "localhost"
@@ -52,4 +48,3 @@ if __name__ == "__main__":
 
     webServer.server_close()
     print("Server stopped.")
->>>>>>> Stashed changes
