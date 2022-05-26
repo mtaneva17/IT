@@ -1,2 +1,0 @@
-zdr
-kak si
